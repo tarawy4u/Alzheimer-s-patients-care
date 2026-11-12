@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mohamed",
+  "description": "تطبيق محمد لرعاية والدته الغالية مريضة الزهايمر، تذكيرات أدوية الضغط والسكر 9:00 صباحاً بالصوت، رسائل الاطمئنان الصوتية، وموسيقى السكينة، وإشعار المشرف الطبي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
